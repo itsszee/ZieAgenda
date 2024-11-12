@@ -8,7 +8,7 @@
     <title>Zie-Agenda</title>
 
 
-    
+    <link rel="shortcut icon" type="image/x-icon" href="assets/absen.png">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
     <link rel="stylesheet" href="assets/css/animate.css">
